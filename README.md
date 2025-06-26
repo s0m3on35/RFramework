@@ -34,20 +34,6 @@ chmod +x Un1nv1t3dr34p3r.sh
 
 ---
 
-## 🖥️ CLI Preview
-
-```
-$ ./Un1nv1t3dr34p3r.sh
-
-1) Run All Modules
-2) Run Individual Module
-3) View Logs
-4) Help
-5) Exit
-```
-
----
-
 ## 📂 Folder Structure
 
 ```
@@ -55,16 +41,8 @@ RFramework/
 ├── Un1nv1t3dr34p3r.sh       # CLI Launcher
 ├── modules/                 # Modular scripts
 ├── results/                 # Output logs
-├── assets/                  # Social preview banner
 └── README.md
 ```
-
----
-
-## 🌐 GitHub Pages
-
-Documentation preview (if activated):  
-➡️ [https://s0m3on35.github.io/RFramework](https://s0m3on35.github.io/RFramework)
 
 ---
 
@@ -80,10 +58,7 @@ Crafted by 🧠 `s0m3on35` with an obsession for clean automation and full-stack
 
 ---
 
-## 📜 License
+## 🛠️ Contributing
 
-This project is released under the [MIT License](LICENSE).
+Pull requests welcome. Please respect module naming conventions (no `_final`, `_merged`, etc.).
 
----
-
-🔒 **Stay sharp. Stay curious. Hack responsibly.**
