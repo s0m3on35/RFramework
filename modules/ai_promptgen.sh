@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🧠 AI Prompt Generator for Recon Tools"
+echo " AI Prompt Generator for Recon Tools"
 mkdir -p ai_prompts
 read -p "Enter domain or target: " target
 
