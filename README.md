@@ -1,5 +1,5 @@
 
-# 🩸 Un1nv1t3dr34p3r – Bleeding Recon Engine
+#  Un1nv1t3dr34p3r – Bleeding Recon Engine
 
 > "If you're going to be bad, do it well."
 
@@ -7,13 +7,13 @@ Un1nv1t3dr34p3r is a modular, AI-augmented offensive security framework for auto
 
 ---
 
-## 🚀 Launch Instructions
+##  Launch Instructions
 
-### 📦 Requirements
+###  Requirements
 - Linux or macOS with `bash`
 - Dependencies: `nmap`, `httpx`, `nuclei`, `ffuf`, `jq`, etc. (see modules)
 
-### ▶️ Start the Framework
+###  Start the Framework
 ```bash
 chmod +x Un1nv1t3dr34p3r.sh
 ./Un1nv1t3dr34p3r.sh
@@ -21,7 +21,7 @@ chmod +x Un1nv1t3dr34p3r.sh
 
 ---
 
-## 🧩 Features
+##  Features
 
 - Dynamic module loader (no hardcoded scripts)
 - Organized modules by category:
@@ -34,7 +34,7 @@ chmod +x Un1nv1t3dr34p3r.sh
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ```
 RFramework/
@@ -46,19 +46,17 @@ RFramework/
 
 ---
 
-## 🖼️ Social Preview
+##  Social Preview
 
 ![R34P3R Banner](https://raw.githubusercontent.com/s0m3on35/RFramework/main/assets/banner.png)
 
 ---
 
-## 💡 Credits
+##  Credits
 
 Crafted by 🧠 `s0m3on35` with an obsession for clean automation and full-stack exploitation.
 
 ---
 
-## 🛠️ Contributing
 
-Pull requests welcome. Please respect module naming conventions (no `_final`, `_merged`, etc.).
 
