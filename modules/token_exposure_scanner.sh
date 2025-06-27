@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🔐 Session Token Exposure Scanner"
+echo "Session Token Exposure Scanner"
 
 mkdir -p token_results
 
