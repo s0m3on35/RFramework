@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🌐 SSRF Payload Tester - Detecting Internal Access via URLs"
+echo " SSRF Payload Tester - Detecting Internal Access via URLs"
 
 mkdir -p ssrf_results
 
