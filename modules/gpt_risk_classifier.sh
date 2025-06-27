@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🧠 GPT-Based Risk Classifier & Exploit Scorer"
+echo " GPT-Based Risk Classifier & Exploit Scorer"
 mkdir -p risk_analysis
 input_dir="scan_results"
 output_file="risk_analysis/scoreboard.txt"
