@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "📋 HTML Form Extractor & Mapper"
+echo " HTML Form Extractor & Mapper"
 mkdir -p form_mapper
 input="urls_collected.txt"
 if [[ ! -f "$input" ]]; then echo "Missing $input"; exit 1; fi
