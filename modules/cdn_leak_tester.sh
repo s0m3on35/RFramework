@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🌐 CDN Leak Tester"
+echo "CDN Leak Tester"
 
 mkdir -p cdn_results
 
