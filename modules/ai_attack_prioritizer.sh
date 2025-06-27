@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🧠 AI Attack Surface Prioritizer"
+echo "AI Attack Surface Prioritizer"
 
 if [[ ! -f recon_findings_summary.txt ]]; then
   echo "Missing 'recon_findings_summary.txt'. Please generate it from previous modules."
