@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🗂️ Static Asset Exposure Scanner"
+echo "Static Asset Exposure Scanner"
 
 mkdir -p asset_results
 
