@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "[🧪 PoC Generator] Starting module..."
+echo "[ PoC Generator] Starting module..."
 echo "Reading from nuclei_results.txt (if exists)..."
 if [[ -f nuclei_results.txt ]]; then
   grep 'CVE' nuclei_results.txt | while read -r line; do
