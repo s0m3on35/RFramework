@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "📦 package-lock.json Deep Inspector"
+echo "package-lock.json Deep Inspector"
 
 mkdir -p pkglock_results
 
