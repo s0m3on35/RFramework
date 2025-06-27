@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🔎 AI-Based Duplicate Endpoint Finder"
+echo " AI-Based Duplicate Endpoint Finder"
 mkdir -p dupe_results
 input_file="urls_collected.txt"
 if [[ ! -f "$input_file" ]]; then
