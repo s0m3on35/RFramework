@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🔐 JWT Analyzer & Brute - Checking for 'alg:none' and weak secrets"
+echo "JWT Analyzer & Brute - Checking for 'alg:none' and weak secrets"
 
 mkdir -p jwt_results
 
