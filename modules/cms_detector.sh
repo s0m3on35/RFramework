@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🔍 CMS Detector & Fingerprinter"
+echo " CMS Detector & Fingerprinter"
 
 mkdir -p cms_results
 
