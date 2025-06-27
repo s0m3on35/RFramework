@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🕷️ URL Pattern Crawler"
+echo " URL Pattern Crawler"
 
 mkdir -p pattern_results
 
