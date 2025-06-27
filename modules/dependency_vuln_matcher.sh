@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🧬 Dependency Vulnerability Matcher"
+echo " Dependency Vulnerability Matcher"
 
 mkdir -p dependency_results
 
