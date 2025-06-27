@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🧬 DOM-Based XSS Detector - JS Injection Analysis"
+echo " DOM-Based XSS Detector - JS Injection Analysis"
 
 # Ensure input file exists
 if [[ ! -f js_links.txt ]]; then
