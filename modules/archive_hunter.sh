@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "📁 Archive & Backup File Hunter"
+echo "Archive & Backup File Hunter"
 mkdir -p archive_hunter
 input="urls_collected.txt"
 if [[ ! -f "$input" ]]; then echo "Missing $input"; exit 1; fi
