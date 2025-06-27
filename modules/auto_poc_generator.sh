@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🤖 Auto PoC Generator - Zero-click Exploit Automation"
+echo "Auto PoC Generator - Zero-click Exploit Automation"
 
 mkdir -p auto_poc_output
 
