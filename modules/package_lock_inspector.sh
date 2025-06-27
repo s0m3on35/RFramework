@@ -27,4 +27,4 @@ echo "[*] Checking for suspicious packages..."
 grep -iE 'event-stream|flatmap-stream|install-script|postinstall' pkglock_results/dependencies.txt > pkglock_results/suspicious.txt
 
 echo "[+] Analysis complete."
-echo "📁 Results saved in pkglock_results/"
+echo " Results saved in pkglock_results/"
