@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🎯 CORS Misconfiguration Tester"
+echo " CORS Misconfiguration Tester"
 
 mkdir -p cors_results
 
