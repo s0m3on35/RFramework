@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🧪 Login Interface Fingerprinter"
+echo " Login Interface Fingerprinter"
 
 mkdir -p login_fingerprint_results
 
