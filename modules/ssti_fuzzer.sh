@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🧾 SSTI Injection Fuzzer - Template Injection Payload Tester"
+echo " SSTI Injection Fuzzer - Template Injection Payload Tester"
 
 mkdir -p ssti_results
 
