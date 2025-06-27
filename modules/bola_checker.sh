@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🔓 BOLA Checker - Broken Object Level Authorization Detector"
+echo "BOLA Checker - Broken Object Level Authorization Detector"
 
 mkdir -p bola_results
 
