@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🧠 GPT Recon Chat - Interactive CLI Assistant"
+echo " GPT Recon Chat - Interactive CLI Assistant"
 echo "Loading previous recon results (if available)..."
 echo ""
 
