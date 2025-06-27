@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "☁️ CSPM Risk Dashboard - Cloud Security Posture Review"
+echo " CSPM Risk Dashboard - Cloud Security Posture Review"
 
 mkdir -p cspm_reports
 
