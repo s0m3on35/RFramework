@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "📚 Searchsploit Integration - CVE Exploit Suggestion Engine"
+echo " Searchsploit Integration - CVE Exploit Suggestion Engine"
 
 mkdir -p searchsploit_results
 
