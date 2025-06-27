@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🧭 Open Redirect Mapper"
+echo " Open Redirect Mapper"
 
 mkdir -p open_redirect_results
 
