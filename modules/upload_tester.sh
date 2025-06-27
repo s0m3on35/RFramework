@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🧪 File Upload Exploit Tester"
+echo " File Upload Exploit Tester"
 
 mkdir -p upload_results
 
