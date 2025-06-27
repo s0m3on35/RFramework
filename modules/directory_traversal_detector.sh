@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "📂 Directory Traversal Detector - Path Injection Fuzzer"
+echo " Directory Traversal Detector - Path Injection Fuzzer"
 
 mkdir -p traversal_results
 
