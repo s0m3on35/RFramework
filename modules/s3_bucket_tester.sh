@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "☁️ S3 Bucket Crawler & Access Tester"
+echo " S3 Bucket Crawler & Access Tester"
 mkdir -p s3_results
 
 input_file="urls_collected.txt"
