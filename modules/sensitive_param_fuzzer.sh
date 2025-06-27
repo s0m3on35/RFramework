@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🔐 Sensitive Param Auto-Fuzzer"
+echo " Sensitive Param Auto-Fuzzer"
 mkdir -p fuzzer_results
 
 input_file="urls_collected.txt"
