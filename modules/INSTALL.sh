@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "🛠️ Installing dependencies for Un1nv1t3dr34p3r..."
+echo "Installing dependencies for Un1nv1t3dr34p3r..."
 
 # Basic packages
 sudo apt update
