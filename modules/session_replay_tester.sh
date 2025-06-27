@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "🔁 Session Replay Tester - Reuse and Hijack Attempt"
+echo "Session Replay Tester - Reuse and Hijack Attempt"
 
 mkdir -p session_replay_logs
 
