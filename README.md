@@ -54,7 +54,7 @@ RFramework/
 
 ##  Credits
 
-Crafted by 🧠 `s0m3on35` with an obsession for clean automation and full-stack exploitation.
+Crafted by `s0m3on35` with an obsession for clean automation and full-stack exploitation.
 
 ---
 
